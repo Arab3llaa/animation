@@ -76,11 +76,5 @@
         transform: translate(1300px , 700px);
     }
 }
-@media ( max-width: 500px){
-    .moon {
-        top: 30%;
-        left: 50%;
-        transform: translate(-50% , -50%);
-    }
 
     
